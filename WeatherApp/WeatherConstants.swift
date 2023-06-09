@@ -10,7 +10,8 @@ import Foundation
 /// To mange the constants in the app
 
 struct AppConstants {
-    static let apiKey = "199279a7ab73493c77de5dbf59b85739"
+    //Replace your API-Key here.
+    static let apiKey = ""
     static let defaultLat = "defaultLat"
     static let defaultLon = "defaultLon"
 }
